@@ -1,0 +1,42 @@
+[
+  {
+    "name": "trip_id",
+    "type": "STRING"
+  },
+  {
+    "name": "taxi_id",
+    "type": "STRING"
+  },
+  {
+    "name": "trip_start_timestamp",
+    "type": "STRING"
+  },
+  {
+    "name": "trip_end_timestamp",
+    "type": "STRING"
+  },
+  {
+    "name": "trip_seconds",
+    "type": "STRING"
+  },
+  {
+    "name": "trip_miles",
+    "type": "STRING"
+  },
+  {
+    "name": "pickup_census_tract",
+    "type": "STRING"
+  },
+  {
+    "name": "dropoff_census_tract",
+    "type": "STRING"
+  },
+  {
+    "name": "pickup_community_area",
+    "type": "STRING"
+  },
+  {
+    "name": "dropoff_community_area",
+    "type": "STRING"
+  }
+]
