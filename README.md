@@ -3,8 +3,8 @@
 This repository contains an Apache Airflow DAG for training machine learning models to predict taxi fare and trip duration using Google BigQuery ML. 
 
 The Chicago taxi dataset is available in BigQuery public datasets(bigquery-public-data.chicago_taxi_trips.taxi_trips). However, if you want to learn about batch and stream loading using Dataflow, the following scripts are provided in the repository:
-1. batch_load_taxi_trips.py
-2. stream_load_taxi_trips.py
+**1. batch_load_taxi_trips.py
+2. stream_load_taxi_trips.py**
 
 
 ![Airflow DAG](airflow_dag.png)
