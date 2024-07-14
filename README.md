@@ -1,6 +1,7 @@
 # Taxi Model Training with Airflow and BigQuery ML
 
 This repository contains an Apache Airflow DAG for training machine learning models to predict taxi fare and trip duration using Google BigQuery ML. 
+![Airflow DAG](images/airflow_dag.png)
 
 ## Overview
 
